@@ -6,3 +6,5 @@ Involves analyzing a movie rating dataset with Apache Spark to compute mean and 
 3. Write the calculateStats method to compute the mean and standard deviation of ratings for each movie
 4. Develop unit tests using ScalaTest to validate the implementation against various scenarios
 5. Run the program to process the dataset and generate the computed statistics for all movies.
+
+The csv file - ratings.csv is downloaded from The Movie Dataset in Kaggle.
